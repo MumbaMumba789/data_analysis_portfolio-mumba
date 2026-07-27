@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.log
+
+# Data files (avoid committing large raw datasets)
+*.csv
+!**/sample_*.csv
