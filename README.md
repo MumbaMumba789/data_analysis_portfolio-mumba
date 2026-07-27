@@ -14,6 +14,4 @@ code, and findings.
 
 ---
 
-**About me:** Geomatics student building toward freelance data
-analytics work, with a technical background in SQL, Python, Power BI,
-and spatial/GIS tools.
+**About me:** I am very passionate about data analysis as it helps us uncover the hidden trends that can actually make a business grow.
