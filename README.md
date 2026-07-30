@@ -1,16 +1,21 @@
-# Data Analytics Portfolio — Mumba
+# Portfolio — Mumba
 
-A collection of data analysis projects covering SQL, Python, and BI
-tooling. Each folder is a self-contained project with its own README,
-code, and findings.
+A collection of projects organized by domain. Each project folder is
+self-contained with its own README, code, and findings.
 
-## Projects
+## Structure
+
+- **[`data-analysis-ml-stats/`](./data-analysis-ml-stats)** — SQL, Python/pandas, Power BI, Excel, and statistics/ML projects
+- **`gis-remote-sensing/`** — GIS and remote sensing projects *(coming soon)*
+- **`web-development/`** — Web development projects *(coming soon)*
+
+---
+
+### data-analysis-ml-stats
 
 | Project | Tools | Description |
 |---|---|---|
-| [Olist E-Commerce SQL Analysis](./olist-ecommerce-sql-analysis) | PostgreSQL | Cohort retention, RFM segmentation, delivery-lateness impact on churn, MoM growth trends, and review-score vs. churn analysis on the Olist Brazilian E-Commerce dataset. |
-
-*More projects coming soon.*
+| [Olist E-Commerce SQL Analysis](./data-analysis-ml-stats/olist-ecommerce-sql-analysis) | PostgreSQL | Cohort retention, RFM segmentation, delivery-lateness impact on churn, MoM growth trends, and review-score vs. churn analysis on the Olist Brazilian E-Commerce dataset. |
 
 ---
 
