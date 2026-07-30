@@ -8,5 +8,3 @@ notebook.
 - `Dirty_Cafe_Sales_Data_Cleaning.ipynb` — cleaning notebook
 - `dirty_cafe_sales.csv` — raw/original data
 - `cleaned_dirty_cafe_sales.csv` — cleaned output
-
-*Built by Mumba — Python, pandas.*
