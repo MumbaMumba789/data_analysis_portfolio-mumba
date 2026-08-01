@@ -1,14 +1,3 @@
-/* ============================================================
-   DATA CLEANING — Olist dataset
-   Adds cleaned columns (does NOT overwrite raw data), so you
-   can show a genuine before/after comparison.
-
-   Cleans:
-     - product_category_name (underscores -> spaces, Title Case)
-     - product_category_name_english (same)
-     - customer_city / seller_city / geolocation_city (Title Case)
-     - order_status (Title Case)
-   ============================================================ */
 
 -- 1. Category translation table
 ALTER TABLE category_translation
@@ -51,19 +40,3 @@ ALTER TABLE orders
 
 UPDATE orders
 SET order_status_clean = INITCAP(order_status);
-
-
-/* ============================================================
-   PREVIEW — run this to see before/after side by side
-   ============================================================ */
-SELECT product_category_name_english AS before, category_name_clean AS after
-FROM category_translation
-LIMIT 10;
-
-SELECT customer_city AS before, customer_city_clean AS after
-FROM customers
-LIMIT 10;
-
-SELECT order_status AS before, order_status_clean AS after
-FROM orders
-LIMIT 10;
