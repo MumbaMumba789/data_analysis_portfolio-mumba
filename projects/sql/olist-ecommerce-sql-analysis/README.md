@@ -1,4 +1,4 @@
-# SQL Ecommerce Analysis
+# SQL
 
 **What this is:** Five deeper business questions that need more than a
 single aggregation to answer — cohort tracking, segmentation, and

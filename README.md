@@ -17,7 +17,7 @@ code, and findings.
 Organized by tool:
 
 - **[`sql/`](./projects/sql)**
-  - [SQL Ecommerce Analysis](./projects/sql/olist-ecommerce-sql-analysis) — Cohort retention, RFM segmentation, delivery-lateness impact on churn, MoM growth trends, and review-score vs. churn analysis on the Olist Brazilian E-Commerce dataset.
+  - [SQL](./projects/sql/olist-ecommerce-sql-analysis) — Cohort retention, RFM segmentation, delivery-lateness impact on churn, MoM growth trends, and review-score vs. churn analysis on the Olist Brazilian E-Commerce dataset.
 - **[`python/`](./projects/python)**
   - [Dirty Cafe Sales — Data Cleaning](./projects/python/dirty-cafe-sales) — Cleaning a messy synthetic cafe sales dataset with pandas.
   - [NYC Airbnb — EDA](./projects/python/airbnb-nyc-eda) — Exploratory data analysis on the real NYC Airbnb Open Data (2019) dataset.
