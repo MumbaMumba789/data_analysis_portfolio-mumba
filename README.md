@@ -39,3 +39,7 @@ cleaning and exploratory analysis to dashboards and predictive
 modeling. Currently expanding this portfolio with classification,
 regression, and A/B testing projects to round out the
 analytics-to-ML pipeline.
+
+## Let's Connect
+
+For those who love solving problems — [connect with me on LinkedIn](https://www.linkedin.com/in/mumba-mumba-393a2737a/).
