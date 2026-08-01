@@ -41,4 +41,4 @@ regression, and A/B testing projects to round out the
 analytics-to-ML pipeline.
 
 ## Let's Connect
- — [connect with me on LinkedIn](https://www.linkedin.com/in/mumba-mumba-393a2737a/).
+[connect with me on LinkedIn](https://www.linkedin.com/in/mumba-mumba-393a2737a/).
