@@ -21,7 +21,8 @@ Organized by tool:
 - **[`python/`](./data-analysis-ml-stats/python)**
   - [Dirty Cafe Sales — Data Cleaning](./data-analysis-ml-stats/python/dirty-cafe-sales) — Cleaning a messy synthetic cafe sales dataset with pandas.
   - [NYC Airbnb — EDA](./data-analysis-ml-stats/python/airbnb-nyc-eda) — Exploratory data analysis on the real NYC Airbnb Open Data (2019) dataset.
-- **`powerbi/`** *(coming soon)*
+- **[`powerbi/`](./data-analysis-ml-stats/powerbi)**
+  - [Data Jobs Insight](./data-analysis-ml-stats/powerbi/data-jobs-insight) — Multi-page dashboard on data analytics job postings: pay by role, top-paying companies, sourcing platforms, and a skills drill-through analyzing demand vs. salary.
 - **`excel/`** *(coming soon)*
 
 ---
