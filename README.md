@@ -17,7 +17,7 @@ code, and findings.
 Organized by tool:
 
 - **[`sql/`](./projects/sql)**
-  - [SQL](./projects/sql/olist-ecommerce-sql-analysis) — Cohort retention, RFM segmentation, delivery-lateness impact on churn, MoM growth trends, and review-score vs. churn analysis on the Olist Brazilian E-Commerce dataset.
+  - [SQL](./projects/sql/SQL) — Cohort retention, RFM segmentation, delivery-lateness impact on churn, MoM growth trends, and review-score vs. churn analysis on the Olist Brazilian E-Commerce dataset.
 - **[`python/`](./projects/python)**
   - [Dirty Cafe Sales — Data Cleaning](./projects/python/dirty-cafe-sales) — Cleaning a messy synthetic cafe sales dataset with pandas.
   - [NYC Airbnb — EDA](./projects/python/airbnb-nyc-eda) — Exploratory data analysis on the real NYC Airbnb Open Data (2019) dataset.
@@ -36,9 +36,7 @@ Organized by tool:
 I'm a geomatics student with a technical background spanning SQL,
 Python, Power BI, Excel, and spatial/GIS tools — I like taking messy,
 real-world data and turning it into something a business can actually
-act on. Alongside this portfolio, I'm building **Cerno**, an
-AI-powered analytics agent aimed at helping SMEs make sense of their
-data without needing a full-time analyst.
+act on.
 
 I'm especially drawn to problems at the intersection of spatial
 data and machine learning — cadastral/engineering surveying gave me
