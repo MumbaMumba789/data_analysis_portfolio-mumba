@@ -23,6 +23,8 @@ Organized by tool:
   - [NYC Airbnb — EDA](./data-analysis-ml-stats/python/airbnb-nyc-eda) — Exploratory data analysis on the real NYC Airbnb Open Data (2019) dataset.
 - **[`powerbi/`](./data-analysis-ml-stats/powerbi)**
   - [Data Jobs Insight](./data-analysis-ml-stats/powerbi/data-jobs-insight) — Multi-page dashboard on data analytics job postings: pay by role, top-paying companies, sourcing platforms, and a skills drill-through analyzing demand vs. salary.
+  - [Sales Visualisation Dashboard](./data-analysis-ml-stats/powerbi/sales-dashboard) — Order shipping performance and revenue trends by month and order-size bucket, with a year filter.
+  - [Coffee Sales Performance Dashboard](./data-analysis-ml-stats/powerbi/coffee-sales-dashboard) — Coffee shop sales by month, hour, product category, and store location, with a store drill-through.
 - **`excel/`** *(coming soon)*
 
 ---
