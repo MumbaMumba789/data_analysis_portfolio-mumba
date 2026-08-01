@@ -44,5 +44,3 @@ total job postings, and **221** total skills tracked.
 - `main_dashboard.png` — overview page screenshot
 - `skill_drillthrough.png` — drill-through page screenshot
 
-**Note:** exact source and collection date of the underlying job
-postings dataset TBD — add here if useful for context.
