@@ -33,14 +33,9 @@ Organized by tool:
 
 ## About Me
 
-I'm a geomatics student with a technical background spanning SQL,
-Python, Power BI, Excel, and spatial/GIS tools — I like taking messy,
-real-world data and turning it into something a business can actually
-act on.
-
-I'm especially drawn to problems at the intersection of spatial
-data and machine learning — cadastral/engineering surveying gave me
-a strong geospatial foundation, and I'm actively extending that into
-predictive modeling and statistics. Currently expanding this
-portfolio with classification, regression, and A/B testing projects
-to round out the analytics-to-ML pipeline.
+I work across SQL, Python, Power BI, and Excel to turn messy,
+real-world data into insights a business can actually act on — from
+cleaning and exploratory analysis to dashboards and predictive
+modeling. Currently expanding this portfolio with classification,
+regression, and A/B testing projects to round out the
+analytics-to-ML pipeline.
