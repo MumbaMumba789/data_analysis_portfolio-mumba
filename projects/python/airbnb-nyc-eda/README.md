@@ -9,4 +9,3 @@ executed Jupyter notebook with charts.
 - `AB_NYC_2019.csv` — raw/original data
 - `airbnb_nyc_clean.csv` — cleaned data used for analysis
 
-*Built by Mumba — Python, pandas.*
