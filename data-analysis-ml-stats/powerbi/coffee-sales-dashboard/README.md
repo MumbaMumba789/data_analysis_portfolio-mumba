@@ -26,4 +26,4 @@ location, with a drill-through to per-store detail.
 ## Files
 
 - `coffe_sales_dashboard.pbix` — the Power BI file
-- `coffee_sales_dashboard.png` — dashboard screenshot
+- `coffee_sales_dashboard.png` — screenshot of the main dashboard
