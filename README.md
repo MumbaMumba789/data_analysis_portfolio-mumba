@@ -7,10 +7,7 @@ code, and findings.
 ## Structure
 
 - **[`projects/`](./projects)** — SQL, Python, Power BI, Excel, and statistics/ML projects
-- **`gis-remote-sensing/`** — GIS and remote sensing projects *(coming soon)*
-- **`web-development/`** — Web development projects *(coming soon)*
 
----
 
 ### projects
 
