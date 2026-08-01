@@ -1,4 +1,4 @@
-# Advanced SQL Analysis: Olist E-Commerce (Brazil)
+# SQL Ecommerce Analysis
 
 **What this is:** Five deeper business questions that need more than a
 single aggregation to answer — cohort tracking, segmentation, and
