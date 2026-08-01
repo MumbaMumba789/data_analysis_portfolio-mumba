@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction
+# Customer Churn Prediction
 
 Predicting which customers are likely to churn so retention efforts
 can be targeted before they leave, using classification models
