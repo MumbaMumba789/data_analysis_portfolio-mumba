@@ -26,9 +26,23 @@ Organized by tool:
   - [Data Jobs Insight](./projects/powerbi/data-jobs-insight) — Multi-page dashboard on data analytics job postings: pay by role, top-paying companies, sourcing platforms, and a skills drill-through analyzing demand vs. salary.
   - [Sales Visualisation Dashboard](./projects/powerbi/sales-dashboard) — Order shipping performance and revenue trends by month and order-size bucket, with a year filter.
   - [Coffee Sales Performance Dashboard](./projects/powerbi/coffee-sales-dashboard) — Coffee shop sales by month, hour, product category, and store location, with a store drill-through.
-- **`excel/`** *(coming soon)*
+- **[`excel/`](./projects/excel)**
+  - [Retail Supermarket Sales Analysis](./projects/excel) — PivotTable/PivotChart dashboard on retail supermarket sales: revenue by category, mall, month and weekday, with slicers for payment method and gender.
 
 ---
 
-**About me:** I am very passionate about data analysis as it helps us
-uncover the hidden trends that can actually make a business grow.
+## About Me
+
+I'm a geomatics student with a technical background spanning SQL,
+Python, Power BI, Excel, and spatial/GIS tools — I like taking messy,
+real-world data and turning it into something a business can actually
+act on. Alongside this portfolio, I'm building **Cerno**, an
+AI-powered analytics agent aimed at helping SMEs make sense of their
+data without needing a full-time analyst.
+
+I'm especially drawn to problems at the intersection of spatial
+data and machine learning — cadastral/engineering surveying gave me
+a strong geospatial foundation, and I'm actively extending that into
+predictive modeling and statistics. Currently expanding this
+portfolio with classification, regression, and A/B testing projects
+to round out the analytics-to-ML pipeline.
