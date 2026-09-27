@@ -19,6 +19,7 @@ Organized by tool:
   - [Dirty Cafe Sales — Data Cleaning](./projects/python/dirty-cafe-sales) — Cleaning a messy synthetic cafe sales dataset with pandas.
   - [NYC Airbnb — EDA](./projects/python/airbnb-nyc-eda) — Exploratory data analysis on the real NYC Airbnb Open Data (2019) dataset.
   - [Customer Churn Prediction](./projects/python/customer-churn-prediction) — Binary classification predicting customer churn, comparing Logistic Regression vs. Random Forest, tuned for recall via F2-score, explained with SHAP.
+  - [A/B Testing — Cookie Cats](./projects/python/ab-testing-cookie-cats) — Two-proportion z-tests on Day 1/Day 7 retention for a mobile game gate-placement experiment, with a clear ship/no-ship business recommendation.
 - **[`powerbi/`](./projects/powerbi)**
   - [Data Jobs Insight](./projects/powerbi/data-jobs-insight) — Multi-page dashboard on data analytics job postings: pay by role, top-paying companies, sourcing platforms, and a skills drill-through analyzing demand vs. salary.
   - [Sales Visualisation Dashboard](./projects/powerbi/sales-dashboard) — Order shipping performance and revenue trends by month and order-size bucket, with a year filter.
